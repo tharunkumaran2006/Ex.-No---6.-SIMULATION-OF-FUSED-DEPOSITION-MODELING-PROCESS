@@ -21,9 +21,13 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113594316/e05c97f8-b035-4e4d-86e8-f91a73aa95a8)
 
 ## Output:
-![Screenshot 2023-11-22 091536](https://github.com/tharunkumaran2006/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/151625188/ebaba064-573d-484f-a890-d517890f0e56)
-![Screenshot 2023-11-22 091556](https://github.com/tharunkumaran2006/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/151625188/1dfce4dd-28e6-4f38-91ff-09060c54b6d3)
-![Screenshot 2023-11-22 091616](https://github.com/tharunkumaran2006/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/151625188/9028939c-b6f6-4a53-8316-82a2e6278d32)
+![Screenshot 2024-01-01 234247](https://github.com/tharunkumaran2006/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/151625188/6e26acb1-3f5e-4d97-b565-359599b3521c)
+
+![Screenshot 2024-01-01 234259](https://github.com/tharunkumaran2006/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/151625188/94d74822-5ed3-42e6-9ccc-cea3e4e09289)
+
+![Screenshot 2024-01-01 234309](https://github.com/tharunkumaran2006/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/151625188/38abbdbc-959e-480c-a435-feb49b7ef91f)
+
+
 
 
 
